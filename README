@@ -1,0 +1,9 @@
+Run the game either by
+$ sh adventure-game.sh
+
+or
+
+$ chmod +x adventure-game.sh
+$ ./adventure-game.sh
+
+Instructions in the game should be very straightforward
